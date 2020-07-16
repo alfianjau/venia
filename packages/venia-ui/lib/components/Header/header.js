@@ -59,7 +59,7 @@ const Header = props => {
                 <Link to={resourceUrl('/')}>
                     <Logo classes={{ logo: classes.logo }} />
                 </Link>
-                Testing
+                Testing Venia
                 <div className={classes.secondaryActions}>
                     <SearchTrigger
                         active={searchOpen}
